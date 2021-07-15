@@ -1,0 +1,13 @@
+package ch04;
+
+public class BinaryTest {
+
+	public static void main(String[] args) {
+		
+		int num = 10; 
+		int bNum = 0B1010;  /*0B는 2진수를 뜻한다. 따라서 0B1010은 10진수 10을 뜻한다. */
+		int oNum = 012; /* oNum은 8진수를 뜻한다. 맨앞에 0을 넣는다. 따라서 8진수 012는 10진수 10. */
+		int xNum = 0X;
+	}
+
+}
