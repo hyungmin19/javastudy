@@ -17,3 +17,7 @@ public class BinaryTest {
 	}
 
 }
+
+
+/* package 이름은 무조건 소문자로 쓴다. class 이름은 무조건 대문자로 쓴다. */
+/* 숫자 문자 문자열 : 리터럴 */
