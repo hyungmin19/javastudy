@@ -27,6 +27,19 @@ public class TypeConversionTest {
 		int iNum2 = (int)(dNum + fNum); // 2
 		System.out.println(iNum1);
 		System.out.println(iNum2);
+		
+		
+		int myNum = 10;
+		int yourNum = 20;
+		
+		myNum = myNum + yourNum;
+		System.out.println(myNum);
+		
+		
+		/* 증가, 감소 연산자
+		 * val = ++num; 은 먼저 num값이 1증가하고 val 변수에 대입
+		 * val = num++; 은 var 변수에 기존 num 값을 먼저 대입한 후 num 값 1증가
+		 * */
 	}
 
 }
